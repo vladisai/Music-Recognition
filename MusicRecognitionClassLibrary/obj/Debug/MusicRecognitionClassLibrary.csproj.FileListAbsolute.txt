@@ -1,0 +1,14 @@
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecognitionClassLibrary\bin\Debug\MusicRecognitionClassLibrary.dll
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecognitionClassLibrary\bin\Debug\MusicRecognitionClassLibrary.pdb
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecognitionClassLibrary\bin\Debug\NAudio.dll
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecognitionClassLibrary\bin\Debug\NAudio.xml
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecognitionClassLibrary\obj\Debug\MusicRecognitionClassLibrary.csprojResolveAssemblyReference.cache
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecognitionClassLibrary\obj\Debug\MusicRecognitionClassLibrary.dll
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecognitionClassLibrary\obj\Debug\MusicRecognitionClassLibrary.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecognitionClassLibrary\bin\Debug\MusicRecognitionClassLibrary.dll
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecognitionClassLibrary\bin\Debug\MusicRecognitionClassLibrary.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecognitionClassLibrary\obj\Debug\MusicRecognitionClassLibrary.dll
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecognitionClassLibrary\obj\Debug\MusicRecognitionClassLibrary.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecognitionClassLibrary\obj\Debug\MusicRecognitionClassLibrary.csprojResolveAssemblyReference.cache
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecognitionClassLibrary\bin\Debug\NAudio.dll
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecognitionClassLibrary\bin\Debug\NAudio.xml

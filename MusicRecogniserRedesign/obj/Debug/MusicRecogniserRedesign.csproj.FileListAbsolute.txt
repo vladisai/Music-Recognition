@@ -1,0 +1,13 @@
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniserRedesign\bin\Debug\MusicRecogniserRedesign.exe.config
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniserRedesign\bin\Debug\MusicRecogniserRedesign.exe
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniserRedesign\bin\Debug\MusicRecogniserRedesign.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniserRedesign\bin\Debug\MusicRecognitionClassLibrary.dll
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniserRedesign\bin\Debug\NAudio.dll
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniserRedesign\bin\Debug\MusicRecognitionClassLibrary.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniserRedesign\bin\Debug\NAudio.xml
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniserRedesign\obj\Debug\MusicRecogniserRedesign.csprojResolveAssemblyReference.cache
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniserRedesign\obj\Debug\MusicRecogniserRedesign.Form1.resources
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniserRedesign\obj\Debug\MusicRecogniserRedesign.Properties.Resources.resources
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniserRedesign\obj\Debug\MusicRecogniserRedesign.csproj.GenerateResource.Cache
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniserRedesign\obj\Debug\MusicRecogniserRedesign.exe
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniserRedesign\obj\Debug\MusicRecogniserRedesign.pdb

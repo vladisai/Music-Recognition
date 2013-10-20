@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseEditor", "DatabaseEditor\DatabaseEditor.csproj", "{DF3EB141-3D52-44E3-935A-26FABE20A7ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRecogniser", "MusicRecogniser\MusicRecogniser.csproj", "{DD12F83D-358A-40C5-9417-0A5D9C467674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRecognitionClassLibrary", "MusicRecognitionClassLibrary\MusicRecognitionClassLibrary.csproj", "{DCA37BD0-E598-4585-AA7C-C6039768CB6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpectrogramBuilder", "NAudioDemo\SpectrogramBuilder.csproj", "{6E7FB095-FFBF-4557-98D2-B1E6AB944F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRecogniserRebuilt", "MusicRecogniserRebuilt\MusicRecogniserRebuilt.csproj", "{BA9CB77D-7BEF-443E-B947-ECAA43D1F38D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRecogniserRedesign", "MusicRecogniserRedesign\MusicRecogniserRedesign.csproj", "{735E3B46-1AC9-4B90-984A-FDC4B47234B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF3EB141-3D52-44E3-935A-26FABE20A7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3EB141-3D52-44E3-935A-26FABE20A7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3EB141-3D52-44E3-935A-26FABE20A7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3EB141-3D52-44E3-935A-26FABE20A7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD12F83D-358A-40C5-9417-0A5D9C467674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD12F83D-358A-40C5-9417-0A5D9C467674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD12F83D-358A-40C5-9417-0A5D9C467674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD12F83D-358A-40C5-9417-0A5D9C467674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA37BD0-E598-4585-AA7C-C6039768CB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA37BD0-E598-4585-AA7C-C6039768CB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA37BD0-E598-4585-AA7C-C6039768CB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA37BD0-E598-4585-AA7C-C6039768CB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7FB095-FFBF-4557-98D2-B1E6AB944F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7FB095-FFBF-4557-98D2-B1E6AB944F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7FB095-FFBF-4557-98D2-B1E6AB944F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7FB095-FFBF-4557-98D2-B1E6AB944F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA9CB77D-7BEF-443E-B947-ECAA43D1F38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9CB77D-7BEF-443E-B947-ECAA43D1F38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9CB77D-7BEF-443E-B947-ECAA43D1F38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9CB77D-7BEF-443E-B947-ECAA43D1F38D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735E3B46-1AC9-4B90-984A-FDC4B47234B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735E3B46-1AC9-4B90-984A-FDC4B47234B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735E3B46-1AC9-4B90-984A-FDC4B47234B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735E3B46-1AC9-4B90-984A-FDC4B47234B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

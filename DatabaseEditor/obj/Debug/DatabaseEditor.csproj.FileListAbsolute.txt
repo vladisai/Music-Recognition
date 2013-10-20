@@ -1,0 +1,26 @@
+E:\Informatics\VS Projects\DatabaseEditor\DatabaseEditor\bin\Debug\DatabaseEditor.exe.config
+E:\Informatics\VS Projects\DatabaseEditor\DatabaseEditor\bin\Debug\DatabaseEditor.exe
+E:\Informatics\VS Projects\DatabaseEditor\DatabaseEditor\bin\Debug\DatabaseEditor.pdb
+E:\Informatics\VS Projects\DatabaseEditor\DatabaseEditor\obj\Debug\DatabaseEditor.Form1.resources
+E:\Informatics\VS Projects\DatabaseEditor\DatabaseEditor\obj\Debug\DatabaseEditor.Properties.Resources.resources
+E:\Informatics\VS Projects\DatabaseEditor\DatabaseEditor\obj\Debug\DatabaseEditor.csproj.GenerateResource.Cache
+E:\Informatics\VS Projects\DatabaseEditor\DatabaseEditor\obj\Debug\DatabaseEditor.exe
+E:\Informatics\VS Projects\DatabaseEditor\DatabaseEditor\obj\Debug\DatabaseEditor.pdb
+E:\Informatics\VS Projects\DatabaseEditor\DatabaseEditor\bin\Debug\NAudio.dll
+E:\Informatics\VS Projects\DatabaseEditor\DatabaseEditor\bin\Debug\NAudio.xml
+E:\Informatics\VS Projects\DatabaseEditor\DatabaseEditor\obj\Debug\DatabaseEditor.csprojResolveAssemblyReference.cache
+E:\Informatics\VS Projects\DatabaseEditor\DatabaseEditor\bin\Debug\MusicRecognitionClassLibrary.dll
+E:\Informatics\VS Projects\DatabaseEditor\DatabaseEditor\bin\Debug\MusicRecognitionClassLibrary.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\DatabaseEditor\bin\Debug\DatabaseEditor.exe.config
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\DatabaseEditor\obj\Debug\DatabaseEditor.exe
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\DatabaseEditor\obj\Debug\DatabaseEditor.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\DatabaseEditor\obj\Debug\DatabaseEditor.csprojResolveAssemblyReference.cache
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\DatabaseEditor\obj\Debug\DatabaseEditor.Form1.resources
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\DatabaseEditor\obj\Debug\DatabaseEditor.Properties.Resources.resources
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\DatabaseEditor\obj\Debug\DatabaseEditor.csproj.GenerateResource.Cache
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\DatabaseEditor\bin\Debug\DatabaseEditor.exe
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\DatabaseEditor\bin\Debug\DatabaseEditor.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\DatabaseEditor\bin\Debug\MusicRecognitionClassLibrary.dll
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\DatabaseEditor\bin\Debug\MusicRecognitionClassLibrary.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\DatabaseEditor\bin\Debug\NAudio.dll
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\DatabaseEditor\bin\Debug\NAudio.xml

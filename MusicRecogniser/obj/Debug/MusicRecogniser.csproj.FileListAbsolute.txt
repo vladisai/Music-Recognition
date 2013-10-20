@@ -1,0 +1,24 @@
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecogniser\bin\Debug\MusicRecogniser.exe.config
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecogniser\bin\Debug\MusicRecogniser.exe
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecogniser\bin\Debug\MusicRecogniser.pdb
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecogniser\obj\Debug\MusicRecogniser.csproj.GenerateResource.Cache
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecogniser\obj\Debug\MusicRecogniser.exe
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecogniser\obj\Debug\MusicRecogniser.pdb
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecogniser\obj\Debug\MusicRecogniser.Form1.resources
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecogniser\bin\Debug\NAudio.dll
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecogniser\bin\Debug\NAudio.xml
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecogniser\obj\Debug\MusicRecogniser.csprojResolveAssemblyReference.cache
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecogniser\obj\Debug\MusicRecognitionClassLibrary.Properties.Resources.resources
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecogniser\bin\Debug\MusicRecognitionClassLibrary.dll
+E:\Informatics\VS Projects\DatabaseEditor\MusicRecogniser\bin\Debug\MusicRecognitionClassLibrary.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\obj\Debug\MusicRecogniser.csprojResolveAssemblyReference.cache
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\obj\Debug\MusicRecogniser.Form1.resources
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\obj\Debug\MusicRecognitionClassLibrary.Properties.Resources.resources
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\obj\Debug\MusicRecogniser.csproj.GenerateResource.Cache
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\obj\Debug\MusicRecogniser.exe
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\bin\Debug\MusicRecogniser.exe.config
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\bin\Debug\MusicRecogniser.exe
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\bin\Debug\MusicRecogniser.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\bin\Debug\MusicRecognitionClassLibrary.dll
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\bin\Debug\MusicRecognitionClassLibrary.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\obj\Debug\MusicRecogniser.pdb

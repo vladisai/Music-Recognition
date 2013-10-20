@@ -1,0 +1,11 @@
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\bin\Debug\NAudioDemo.exe.config
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\obj\Debug\NAudioDemo.exe
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\obj\Debug\NAudioDemo.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\obj\Debug\SpectrogramBuilder.csprojResolveAssemblyReference.cache
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\obj\Debug\NAudioDemo.Form1.resources
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\obj\Debug\NAudioDemo.Properties.Resources.resources
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\obj\Debug\SpectrogramBuilder.csproj.GenerateResource.Cache
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\bin\Debug\NAudioDemo.exe
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\bin\Debug\NAudioDemo.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\bin\Debug\MusicRecognitionClassLibrary.dll
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\bin\Debug\MusicRecognitionClassLibrary.pdb
