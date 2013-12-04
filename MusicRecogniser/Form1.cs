@@ -11,7 +11,6 @@ using System.Windows.Forms;
 using System.Threading;
 using System.Threading.Tasks;
 
-
 using MusicRecognitionClassLibrary;
 using NAudio.Dsp;
 
@@ -19,7 +18,7 @@ namespace MusicRecogniser
 {
     public partial class Form1 : Form
     {
-        private Dictionary dict;
+        private MatchFinder matchFinder;
         private AudioRecorder audioRecorder;
 
         private byte[] b;
@@ -30,9 +29,8 @@ namespace MusicRecogniser
 
         public Form1()
         {
-            InitializeComponent();
-            dict = new Dictionary("data\\");           
-
+            InitializeComponent();  
+            matchFinder = new MatchFinder("data\\");
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -96,7 +94,6 @@ namespace MusicRecogniser
             {
                 viewMatches();
             }
-
         }
 
         private void viewMatches()
@@ -115,10 +112,7 @@ namespace MusicRecogniser
                 b = audioRecorder.b;
             }
 
-            Complex[][] comArr = dataHandler.GetFFTArray(b, bLen, channels);
-            Hash h = new Hash(comArr);
-            List<PeaksPair> hash = h.getPeakPairs();
-            string[] res = dict.findMatches(hash);
+            string[] res = matchFinder.getBestMatches(b, bLen, channels, 15);           
 
             listBox2.Items.Clear();
             for (int i = 0; i < res.Length; i++)

@@ -53,7 +53,7 @@ namespace DatabaseEditor
 
         private void button2_Click(object sender, EventArgs e)
         {
-                      
+
             bw = new BackgroundWorker { WorkerReportsProgress = true, WorkerSupportsCancellation = true };            
      
             bw.DoWork += DoWork;

@@ -47,7 +47,9 @@
     <Compile Include="dataHandler.cs" />
     <Compile Include="Dictionary.cs" />
     <Compile Include="Hash.cs" />
+    <Compile Include="MatchFinder.cs" />
     <Compile Include="mp3Processor.cs" />
+    <Compile Include="ParamsParser.cs" />
     <Compile Include="Peak.cs" />
     <Compile Include="PeaksPair.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

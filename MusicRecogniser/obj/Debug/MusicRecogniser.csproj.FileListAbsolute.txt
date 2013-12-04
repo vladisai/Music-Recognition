@@ -22,3 +22,5 @@ E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\bin\De
 E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\bin\Debug\MusicRecognitionClassLibrary.dll
 E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\bin\Debug\MusicRecognitionClassLibrary.pdb
 E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\obj\Debug\MusicRecogniser.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\bin\Debug\NAudio.dll
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\MusicRecogniser\bin\Debug\NAudio.xml

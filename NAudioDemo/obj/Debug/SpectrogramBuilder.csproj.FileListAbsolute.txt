@@ -9,3 +9,5 @@ E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\bin\Debug\N
 E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\bin\Debug\NAudioDemo.pdb
 E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\bin\Debug\MusicRecognitionClassLibrary.dll
 E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\bin\Debug\MusicRecognitionClassLibrary.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\bin\Debug\NAudio.dll
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\NAudioDemo\bin\Debug\NAudio.xml

@@ -11,13 +11,10 @@ namespace MusicRecognitionClassLibrary
         public int position, peakFrequency1, peakFrequency2, dTime;
 
         public static bool operator == (PeaksPair pair1, PeaksPair pair2)
-        {
-            int maxTimeDifference = 0;
-            int maxFreqDifference = 0;
-
-            if (Math.Abs(pair1.peakFrequency1 - pair2.peakFrequency1) <= maxFreqDifference)
-                if (Math.Abs(pair1.peakFrequency2 - pair2.peakFrequency2) <= maxFreqDifference)                    
-                        if (Math.Abs(pair1.dTime - pair2.dTime) <= maxTimeDifference)
+        {         
+            if (pair1.peakFrequency1 == pair2.peakFrequency1)
+                if (pair1.peakFrequency2 == pair2.peakFrequency2)                    
+                        if (pair1.dTime == pair2.dTime) 
                             return true;
 
             return false;
@@ -32,7 +29,6 @@ namespace MusicRecognitionClassLibrary
         public PeaksPair(Peak p1, Peak p2)
         {
             int mod = 2;
-
             position = p1.time;
 
             peakFrequency1 = p1.frequency;

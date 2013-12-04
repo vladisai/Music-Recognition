@@ -1,0 +1,3 @@
+MusicRecogniser\bin\Debug\
+MusicRecogniserRedesign\bin\Debug\
+RecognitionEfficiencyEstimator\bin\Debug\

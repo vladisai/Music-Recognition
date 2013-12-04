@@ -100,8 +100,8 @@ namespace MusicRecognitionClassLibrary
                 float y1 = peaks[i].peakFrequency1*stepY;
                 float x2 = (peaks[i].position + peaks[i].dTime) * stepX;
                 float y2 = peaks[i].peakFrequency2 * stepY;
-                g.DrawEllipse(new Pen(Color.Lime, 2), x1+1, image.Height - 1 - y1, 1, 1);
-                g.DrawEllipse(new Pen(Color.Lime, 2), x2+1, image.Height - 1 - y2, 1, 1);
+                g.DrawEllipse(new Pen(Color.Lime, 2), x1+1, image.Height - 1 - y1, 5, 5);
+                g.DrawEllipse(new Pen(Color.Lime, 2), x2+1, image.Height - 1 - y2, 5, 5);
                 //if (i%10 == 0)
                    //g.DrawLine(new Pen(Color.Magenta, (float)0.5), x1, image.Height - 1 - y1, x2, image.Height - 1 -y2);
             }

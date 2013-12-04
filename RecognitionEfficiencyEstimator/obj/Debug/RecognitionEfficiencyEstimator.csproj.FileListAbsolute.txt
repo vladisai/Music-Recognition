@@ -1,0 +1,13 @@
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\RecognitionEfficiencyEstimator\bin\Debug\RecognitionEfficiencyEstimator.exe.config
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\RecognitionEfficiencyEstimator\bin\Debug\RecognitionEfficiencyEstimator.exe
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\RecognitionEfficiencyEstimator\bin\Debug\RecognitionEfficiencyEstimator.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\RecognitionEfficiencyEstimator\bin\Debug\MusicRecognitionClassLibrary.dll
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\RecognitionEfficiencyEstimator\bin\Debug\NAudio.dll
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\RecognitionEfficiencyEstimator\bin\Debug\MusicRecognitionClassLibrary.pdb
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\RecognitionEfficiencyEstimator\bin\Debug\NAudio.xml
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\RecognitionEfficiencyEstimator\obj\Debug\RecognitionEfficiencyEstimator.csprojResolveAssemblyReference.cache
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\RecognitionEfficiencyEstimator\obj\Debug\RecognitionEfficiencyEstimator.Form1.resources
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\RecognitionEfficiencyEstimator\obj\Debug\RecognitionEfficiencyEstimator.Properties.Resources.resources
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\RecognitionEfficiencyEstimator\obj\Debug\RecognitionEfficiencyEstimator.csproj.GenerateResource.Cache
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\RecognitionEfficiencyEstimator\obj\Debug\RecognitionEfficiencyEstimator.exe
+E:\Informatics\VS Projects\MusicRecognition(Peaks method)\RecognitionEfficiencyEstimator\obj\Debug\RecognitionEfficiencyEstimator.pdb

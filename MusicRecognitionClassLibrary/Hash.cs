@@ -10,7 +10,6 @@ namespace MusicRecognitionClassLibrary
 {
     public class Hash
     {
-
         private Complex[][] comData;
         private int width, height;
 
@@ -44,9 +43,9 @@ namespace MusicRecognitionClassLibrary
 
             List<Peak> result = new List<Peak>();
 
-            int minDistance = 17;
-            int maxDistance = 25;
-            int zoneHeight = 20;
+            int minDistance = (int)ParamsParser.getParam("minDistance");
+            int maxDistance = (int)ParamsParser.getParam("maxDistance");
+            int zoneHeight = (int)ParamsParser.getParam("zoneHeight");
 
             int posStart = Math.Min(width - 1, peak.time + minDistance);
             int posFinish = Math.Min(width - 1, peak.time + maxDistance);
@@ -203,10 +202,10 @@ namespace MusicRecognitionClassLibrary
             for (int i = 0; i < width; i++)
                 result[i] = new List<KeyValuePair<int, double>>();
 
-            int influenceDistance = 5;
-            double influenceCoefficient = 0.5;
+            int influenceDistance = (int)ParamsParser.getParam("influenceDistance");
+            double influenceCoefficient = ParamsParser.getParam("influenceCoefficient");
             int startPoint = 3;
-            double speedCoefficient = 0.01;
+            double speedCoefficient = ParamsParser.getParam("speedCoefficient");
 
 
             for (int time = 0; time < width; time++)
@@ -262,6 +261,9 @@ namespace MusicRecognitionClassLibrary
 
         List<KeyValuePair<int, double>> cullPeaksNew(List<KeyValuePair<int, double>> peaks, int desiredQuantity = 4, int exclusionDistance = 15)
         {
+            desiredQuantity = (int)ParamsParser.getParam("desiredQuantity");
+            exclusionDistance = (int)ParamsParser.getParam("exclusionDistance");
+
             bool[] excluded = new bool[height];
 
             List<KeyValuePair<int, double>> result = new List<KeyValuePair<int, double>>();

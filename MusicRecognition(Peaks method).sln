@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRecogniserRebuilt", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRecogniserRedesign", "MusicRecogniserRedesign\MusicRecogniserRedesign.csproj", "{735E3B46-1AC9-4B90-984A-FDC4B47234B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecognitionEfficiencyEstimator", "RecognitionEfficiencyEstimator\RecognitionEfficiencyEstimator.csproj", "{0365BA91-937D-477C-BE8C-F37B7C2C0ED8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{735E3B46-1AC9-4B90-984A-FDC4B47234B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{735E3B46-1AC9-4B90-984A-FDC4B47234B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{735E3B46-1AC9-4B90-984A-FDC4B47234B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0365BA91-937D-477C-BE8C-F37B7C2C0ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0365BA91-937D-477C-BE8C-F37B7C2C0ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0365BA91-937D-477C-BE8C-F37B7C2C0ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0365BA91-937D-477C-BE8C-F37B7C2C0ED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

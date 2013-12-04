@@ -14,7 +14,7 @@ namespace MusicRecogniserRedesign
 {
     public partial class Form1 : Form
     {
-        private Dictionary dict;
+        private MatchFinder matchFinder;
         private AudioRecorder audioRecorder;
 
         private byte[] b;
@@ -26,7 +26,7 @@ namespace MusicRecogniserRedesign
         public Form1()
         {
             InitializeComponent();
-            dict = new Dictionary("data\\");     
+            matchFinder = new MatchFinder("data\\");
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -74,7 +74,6 @@ namespace MusicRecogniserRedesign
                 viewMatches();
 
                 button1.Text = "Остановить запись и распознавание";
-
             }
         }
 
@@ -98,10 +97,7 @@ namespace MusicRecogniserRedesign
                 b = audioRecorder.b;
             }
 
-            Complex[][] comArr = dataHandler.GetFFTArray(b, bLen, channels);
-            Hash h = new Hash(comArr);
-            List<PeaksPair> hash = h.getPeakPairs();
-            string[] res = dict.findMatches(hash);
+            string[] res = matchFinder.getBestMatches(b, bLen, channels, 15);
 
             listBox1.Items.Clear();
             for (int i = 0; i < res.Length; i++)
